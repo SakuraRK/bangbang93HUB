@@ -1,4 +1,4 @@
-![blhx-style-logo](./.github/blhx-style-logo.jpg)
+![blhx-style-logo](./.github/blhx-style-logo-new.jpg)
 
 # bangbang93HUB
 > [!WARNING]
@@ -20,39 +20,41 @@
 - 图片的命名请不要使用杂乱的名称，如 "QQ图片1145141919810"
 - 提交的图片请参考："**[回复(回复的人)-回复的内容]\_消息1\_消息2\_[图片的描述(图片中的内容)]**"
 - 若无法形容，请保持一个特别的文件名，或是一段用书名号包裹的简短的概括，如 **“ 《token宝宝》 ”**
+- 如果 PR 数大于 3 ，可以开 issue 要贡献者权限
 
 ## 我可以做些什么？  
 - 你可以随意的去群里发布这些表情包  
 - 你可以给 [bangbang93](https://afdian.net/@bangbang93) 打钱，以确保我~~不会被 bangbang93 Gank~~
  
-## API
+## OpenBH93API
 
-### 随机图片API
-- 可以方便，快速的随机查看本仓库的图片
+### 图片 API
+#### 随机图片 API
+- 可以方便，快速的查看本仓库的图片
 ```
-https://apis.bmclapi.online/api/93/random
-https://api.bangbang93.top/api/link
+https://apis.bmclapi.online/api/93/random 
+#Form unify
 ```
-- ~~不安全地~~随机查看本仓库的图片 :)
-- ~~安全地~~随机查看本仓库的图片 ^^ -- by TTB-Network
-```
-https://ttb-network.top:8800/mirrors/bangbang93hub/random
-```
-## 第三方镜像
+
+## 仓库第三方镜像
 ```
 https://jsd.onmicrosoft.cn/gh/Mxmilu666/bangbang93HUB/
 https://cdn.jsdelivr.net/gh/Mxmilu666/bangbang93HUB/
+
 https://apis.bmclapi.online/api/93/file?name=文件名
+#Form unify
 ```
-## 第三方整活网站
+
+#### 第三方整活 APP
 ```
-https://bmclemoji.pages.dev/htmlpage_1716029370/
+https://github.com/Whirity404/BangBang93Droid
 ```
-### 图片列表 API
-- 可以方便，快速的查看所有图片列表
+
+## [Open93AtHome](https://github.com/SaltWood-Studio/Open93AtHome-V3)(快去 Star ！)
 ```
-https://ttb-network.top:8800/mirrors/bangbang93hub/filelist
+https://saltwood.top:9393/files/bangbang93Hub/文件名
 ```
+
 ## 特别鸣谢
 此项目由 [suwingsHUB](https://github.com/liyxii/suwingsHUB) 启发创建
 
